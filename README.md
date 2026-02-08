@@ -12,7 +12,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fanrado&layout=compact&theme=radical&langs_count=8)
 
 ### Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fanrado&theme=redical&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fanrado&theme=radical&hide_border=true)
 
 ### Recent Activity
 <!--START_SECTION:activity-->
