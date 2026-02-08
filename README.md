@@ -24,6 +24,10 @@ I am Rado Razakamiandra. I am a PhD student in physics at Stony Brook University
 
 ### Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/fanrado/fanrado/pull/2) in [fanrado/fanrado](https://github.com/fanrado/fanrado)
+2. 💪 Opened PR [#2](https://github.com/fanrado/fanrado/pull/2) in [fanrado/fanrado](https://github.com/fanrado/fanrado)
+3. ❌ Closed PR [#1](https://github.com/fanrado/fanrado/pull/1) in [fanrado/fanrado](https://github.com/fanrado/fanrado)
+4. 🗣 Commented on [#1](https://github.com/fanrado/fanrado/pull/1#issuecomment-3868272102) in [fanrado/fanrado](https://github.com/fanrado/fanrado)
 <!--END_SECTION:activity-->
 
 
