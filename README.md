@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Rado Razakamiandra. I am a PhD student in physics at Stony Brook University.
 
 ## 📊 Real-Time GitHub Activity
 
@@ -8,9 +9,16 @@
 ### GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fanrado&theme=radical)
 
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fanrado&layout=compact&theme=radical&langs_count=8)
+<!-- ### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fanrado&layout=compact&theme=radical&langs_count=8) -->
 
+### Languages & Libraries
+- Python
+- C / C++
+- Numpy
+- Pytorch
+- Tensorflow / keras
+  
 ### Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fanrado&theme=radical&hide_border=true)
 
@@ -18,8 +26,6 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-### Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=fanrado&color=blueviolet&style=flat-square&label=Profile+Views)
 
 <!--
 **fanrado/fanrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
