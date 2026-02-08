@@ -18,28 +18,6 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-> **Note:** To enable the Recent Activity section, you need to set up a GitHub Action workflow. Create `.github/workflows/update-activity.yml`:
-> 
-> ```yaml
-> name: Update README with recent activity
-> 
-> on:
->   schedule:
->     - cron: '*/30 * * * *'  # Runs every 30 minutes
->   workflow_dispatch:
-> 
-> jobs:
->   build:
->     runs-on: ubuntu-latest
->     name: Update Profile README
-> 
->     steps:
->       - uses: actions/checkout@v3
->       - uses: jamesgeorge007/github-activity-readme@master
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
 ### Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=fanrado&color=blueviolet&style=flat-square&label=Profile+Views)
 
