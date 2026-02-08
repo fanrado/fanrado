@@ -20,7 +20,7 @@ I am Rado Razakamiandra. I am a PhD student in physics at Stony Brook University
 - Tensorflow / keras
   
 ### Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fanrado&theme=radical&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fanrado&timezone=America/New_York&theme=radical&hide_border=true)
 
 ### Recent Activity
 <!--START_SECTION:activity-->
